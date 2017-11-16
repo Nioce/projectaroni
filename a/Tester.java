@@ -1,10 +1,9 @@
 package a;
 import java.util.Arrays;
 /**
- * Write a description of class Tester here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Souds 1 is the set array
+ * And in this we test and cut it with trim and set the amp
+ * and then return it 
  */
 public class Tester
 {

@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class ScoreTester here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Sets student records
+ * and runs them through the code in #StudentRecord
  */
 public class ScoreTester
 {

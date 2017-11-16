@@ -1,11 +1,15 @@
 #BlueJ class context
 comment0.target=StudentRecord
+comment0.text=\ \r\n\ This\ will\ set\ the\ studentRecords\ and\ make\ it\ a\ public\ class\r\n
 comment1.params=scores
 comment1.target=StudentRecord(int[])
 comment2.params=first\ last
 comment2.target=double\ average(int,\ int)
+comment2.text=\ \r\n\ This\ creates\ the\ average\ of\ the\ scores\r\n
 comment3.params=
 comment3.target=boolean\ hasImproved()
+comment3.text=\ \r\n\ This\ checks\ if\ the\ one\ in\ front\ of\ it\ is\ greater\ than\ and\ or\ equal\ to\ the\ prevoius\ one\r\n\ If\ so\ it\ returns\ true\r\n
 comment4.params=
 comment4.target=double\ finalAverage()
+comment4.text=\ \r\n\ Finds\ the\ average\ of\ the\ scores\ by\ checking\ the\ final\ average.\ \r\n
 numComments=5

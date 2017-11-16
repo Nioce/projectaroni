@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Tester
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tester\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Souds\ 1\ is\ the\ set\ array\r\n\ And\ in\ this\ we\ test\ and\ cut\ it\ with\ trim\ and\ set\ the\ amp\r\n\ and\ then\ return\ it\ \r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2

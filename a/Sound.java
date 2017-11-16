@@ -4,8 +4,8 @@ package a;
 /**
  * Write a description of class Sound here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Andrew WIlomovsky  (your name)
+ * @11/16
  */
 public class Sound
 {
@@ -14,6 +14,11 @@ public class Sound
     public Sound(int[] samples){
         this.samples = samples;
     }
+    
+     /** 
+     * This sets the apmlitude and sets the current soundd byte to the limited amp
+     */
+    
     public int limitAmplitude(int limit){
         int ns = 0;
            for(int i=0; samples.length-1>= i; i++){
@@ -28,6 +33,11 @@ public class Sound
            }
         return ns;
     }
+    
+    /** 
+     * This trims the white space aka 0's at the beggining of a sound byte 
+     */
+    
     public void trimSilence(){
         int ns=0;
         for(int i=0; samples.length >= i; i++){
