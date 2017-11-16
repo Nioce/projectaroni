@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Projoect of Score and Student Record
+PURPOSE OF PROJECT: AP 
+VERSION or DATE: 11/16
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Andrew Wilomovsky
 USER INSTRUCTIONS:
