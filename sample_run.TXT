@@ -1,0 +1,10 @@
+N ot WOrking
+50.6
+N ot WOrking
+64.6
+N ot WOrking
+66.57142857142857
+WOrking
+61.0
+WOrking
+65.0

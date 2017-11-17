@@ -1,9 +1,9 @@
-package a;
+package SoundFRQ;
 import java.util.Arrays;
 /**
  * Souds 1 is the set array
  * And in this we test and cut it with trim and set the amp
- * and then return it 
+ * and then 
  */
 public class Tester
 {

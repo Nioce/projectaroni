@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Sound
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sound\ here.\r\n\r\n\ @Andrew\ WIlomovsky\ \ (your\ name)\r\n\ @11/16\r\n
+comment1.params=samples
+comment1.target=Sound(int[])
+comment2.params=limit
+comment2.target=int\ limitAmplitude(int)
+comment2.text=\ \r\n\ This\ sets\ the\ apmlitude\ and\ sets\ the\ current\ soundd\ byte\ to\ the\ limited\ amp\r\n
+comment3.params=
+comment3.target=void\ trimSilence()
+comment3.text=\ \r\n\ This\ trims\ the\ white\ space\ aka\ 0's\ at\ the\ beggining\ of\ a\ sound\ byte\ \r\n
+numComments=4
